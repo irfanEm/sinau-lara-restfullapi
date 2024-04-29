@@ -1,0 +1,21 @@
+Langkah RESTful API laravel
+
+Tentukan Requirement
+contoh akan membuat 3 fitur sbb:
+    User Management
+    Contact Management
+    Address Management
+
+- 02:25 User Management Requirement
+    User Data : username, password, name, token
+    User API : register user, login user, update user, get user, logout user.
+
+-03:47 Contact Management Requirement
+    Contact Data : First Name, last name, email, phone
+    Contact API : create contact, update contact, get contact, search contact, remove contact
+
+-04:55 Address Management Requirement
+    Addres Data : street, city, province, country, postal code
+    address API : create address, update address, get address, list address, remove address.
+
+-07:15 User API Spec
